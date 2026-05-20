@@ -15,9 +15,11 @@ Minor in Mathematics & Game Engineering
 
 ## About
 
-I’m a Computer Science student at **New York University Tandon School of Engineering**, with minors in **Mathematics** and **Game Engineering**.
+I like working on projects where **models**, **data**, and **software systems** meet.
 
-I’m interested in building systems at the intersection of **AI/ML**, **backend engineering**, **distributed systems**, and **scientific computing**. I like working on projects that combine research ideas with practical engineering, from model evaluation pipelines to scalable backend tools.
+Most of my work is focused on building practical tools around AI/ML, backend infrastructure, and scientific computing — from model evaluation pipelines and NLP systems to APIs, databases, and distributed services.
+
+Outside of coursework, I’m especially interested in turning research ideas into usable software: systems that are not just technically interesting, but actually reliable, testable, and useful.
 
 ---
 
