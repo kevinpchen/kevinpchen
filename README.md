@@ -15,7 +15,7 @@ Minor in Mathematics & Game Engineering
 
 ## About
 
-I like working on projects where **models**, **data**, and **software systems** meet.
+Hi! I'm Kevin, and I like working on projects where **models**, **data**, and **software systems** meet.
 
 Most of my work is focused on building practical tools around AI/ML, backend infrastructure, and scientific computing — from model evaluation pipelines and NLP systems to APIs, databases, and distributed services.
 
