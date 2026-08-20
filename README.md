@@ -23,19 +23,6 @@ Outside of coursework, I’m especially interested in turning research ideas int
 
 ---
 
-## Featured Projects
-
-### AlphaDoMi
-
-A DSP-based device for detecting **intonation and rhythm accuracy** through signal processing.
-
-- Detects pitch and rhythm accuracy with high precision
-- Designed with accessibility and usability in mind
-- Published at **CONF-CDS 2022**
-- Built for real-world use with music learning and neurodiverse users
-
----
-
 ## Languages
 
 <p>
